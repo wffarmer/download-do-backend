@@ -1,12 +1,10 @@
-"engines": {
-  "node": "18.x"
-},
-
-
 {
   "name": "download-do-backend",
   "version": "1.0.0",
   "main": "app.js",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "start": "node app.js"
   },
